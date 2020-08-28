@@ -8,6 +8,8 @@ flake8 = "*"
 black = "*"
 isort = "*"
 "aws-cdk.core" = "*"
+"aws-cdk.aws-apigatewayv2" = "*"
+"aws-cdk.aws-apigateway" = "*"
 
 [packages]
 
